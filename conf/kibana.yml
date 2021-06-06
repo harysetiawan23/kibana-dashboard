@@ -106,4 +106,3 @@ elasticsearch.hosts: ["http://elasticsearch:9200"]
 # Specifies locale to be used for all localizable strings, dates and number formats.
 # Supported languages are the following: English - en , by default , Chinese - zh-CN .
 #i18n.locale: "en"
-xpack.monitoring.ui.container.elasticsearch.enabled: true
