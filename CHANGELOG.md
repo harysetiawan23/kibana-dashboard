@@ -1,3 +1,7 @@
+## V.0.0.6-1
+
+- Hotfix update kibana.yml
+
 ## V.0.0.6
 
 - Update release version 
