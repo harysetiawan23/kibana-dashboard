@@ -1,3 +1,7 @@
+## V.0.0.6
+
+- Update release version 
+
 ## V.0.0.5
 
 - Update release version 
